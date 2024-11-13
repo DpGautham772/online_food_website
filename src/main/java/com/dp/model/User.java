@@ -1,10 +1,10 @@
 package com.dp.model;
 
+import com.dp.dto.RestaurantDto;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.Generated;
 import lombok.NoArgsConstructor;
 
 import java.util.ArrayList;

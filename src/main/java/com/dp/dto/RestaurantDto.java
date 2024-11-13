@@ -1,4 +1,4 @@
-package com.dp.model;
+package com.dp.dto;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;
