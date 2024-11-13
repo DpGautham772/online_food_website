@@ -8,9 +8,8 @@ import lombok.NoArgsConstructor;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-
-@Data
 @Entity
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class Food {
